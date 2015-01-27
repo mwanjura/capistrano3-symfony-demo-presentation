@@ -1,7 +1,0 @@
-{
-  "name": "capistrano3-symfony-demo-presentation",
-  "version": "1.0.0",
-  "dependencies": {
-    "prism": "gh-pages"
-  }
-}
